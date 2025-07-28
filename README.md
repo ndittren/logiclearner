@@ -1,5 +1,4 @@
 # Logic Learner
-[![Actions Status](https://github.com/ccnmtl/logiclearner/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/logiclearner/actions)
 
 Logic Learner is an online learning tool that helps computer science, engineering, and mathematics students improve their fluency and problem solving process in writing proofs for propositional logic.
 
